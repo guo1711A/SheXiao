@@ -1,0 +1,5 @@
+C:\Users\周涵\Desktop\赊销系统\Loans\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\周涵\Desktop\赊销系统\Loans\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\周涵\Desktop\赊销系统\Loans\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\周涵\Desktop\赊销系统\Loans\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\周涵\Desktop\赊销系统\Loans\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
